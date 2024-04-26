@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WendaPlus: Edit with Markdown
 // @namespace    http://tampermonkey.net/
-// @version      0.1.0
+// @version      0.1.1
 // @description  使用 Markdown 编辑内容
 // @author       xgugugu
 // @match        https://wenda.codingtang.com/questions/*/

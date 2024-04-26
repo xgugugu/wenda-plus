@@ -240,6 +240,8 @@ function math_plugin(md, options)
 /* --- */
 
 const md = window.markdownit({
+    html: true,
+    linkify: true,
     highlight : function(str, lang) {
         if (lang && hljs.getLanguage(lang))
         {

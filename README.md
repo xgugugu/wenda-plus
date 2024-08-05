@@ -8,3 +8,4 @@
 - [增强搜索](https://greasyfork.org/zh-CN/scripts/483438-wendaplus-advanced-search)
 - [一键允许复制](https://greasyfork.org/zh-CN/scripts/483439-wendaplus-allow-copy)
 - [用 Markdown 编辑内容](https://greasyfork.org/zh-CN/scripts/483526-wendaplus-edit-with-markdown)
+- [阻止导致卡顿的 iframe 元素](https://greasyfork.org/zh-CN/scripts/502684-wendaplus-disable-all-iframes)

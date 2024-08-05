@@ -7,7 +7,6 @@
 // @match        https://wenda.codingtang.com/*
 // @grant        none
 // @license      MIT
-// @require      https://cdn.staticfile.org/jquery/3.7.1/jquery.min.js
 // ==/UserScript==
 
 $('iframe').each(function() {
